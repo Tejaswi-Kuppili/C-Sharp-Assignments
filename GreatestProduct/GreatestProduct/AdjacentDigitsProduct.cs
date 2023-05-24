@@ -1,4 +1,4 @@
-﻿using System;
+using System;
 
 class AdjacentDigitProduct
 {
@@ -6,6 +6,7 @@ class AdjacentDigitProduct
     {
         int adjDigits = 4;
         long maxProduct = 0;
+        //Multiplication of the 4 adjacent digits and identifying the greatest product
         for (int i = 0; i <= num.Length - adjDigits; i++)
         {
             long product = 1;
