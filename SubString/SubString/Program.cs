@@ -13,10 +13,10 @@ class SubString
         while (index >= 0)
         {
             Console.WriteLine(index + " ");
-            occurances++;
+            occurance++;
             index = s1.IndexOf(s2, index + 1);
         }
-        Console.WriteLine("\nNUMBER OF OCCURANCES: " + occured);
+        Console.WriteLine("\nNUMBER OF OCCURANCES: " + occurance);
         Console.ReadKey();
     }
 }
