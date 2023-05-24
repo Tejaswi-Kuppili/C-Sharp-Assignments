@@ -1,0 +1,16 @@
+C:\Users\Tejaswi Kuppili\source\repos\SubString\SubString\bin\Debug\SubString.exe.config
+C:\Users\Tejaswi Kuppili\source\repos\SubString\SubString\bin\Debug\SubString.exe
+C:\Users\Tejaswi Kuppili\source\repos\SubString\SubString\bin\Debug\SubString.pdb
+C:\Users\Tejaswi Kuppili\source\repos\SubString\SubString\obj\Debug\SubString.csproj.AssemblyReference.cache
+C:\Users\Tejaswi Kuppili\source\repos\SubString\SubString\obj\Debug\SubString.csproj.SuggestedBindingRedirects.cache
+C:\Users\Tejaswi Kuppili\source\repos\SubString\SubString\obj\Debug\SubString.csproj.CoreCompileInputs.cache
+C:\Users\Tejaswi Kuppili\source\repos\SubString\SubString\obj\Debug\SubString.exe
+C:\Users\Tejaswi Kuppili\source\repos\SubString\SubString\obj\Debug\SubString.pdb
+C:\Users\Tejaswi Kuppili\source\repos\ASSIGNMENTS\SubString\SubString\obj\Debug\SubString.csproj.AssemblyReference.cache
+C:\Users\Tejaswi Kuppili\source\repos\ASSIGNMENTS\SubString\SubString\obj\Debug\SubString.csproj.SuggestedBindingRedirects.cache
+C:\Users\Tejaswi Kuppili\source\repos\ASSIGNMENTS\SubString\SubString\obj\Debug\SubString.csproj.CoreCompileInputs.cache
+C:\Users\Tejaswi Kuppili\source\repos\ASSIGNMENTS\SubString\SubString\obj\Debug\SubString.exe
+C:\Users\Tejaswi Kuppili\source\repos\ASSIGNMENTS\SubString\SubString\obj\Debug\SubString.pdb
+C:\Users\Tejaswi Kuppili\source\repos\ASSIGNMENTS\SubString\SubString\bin\Debug\SubString.exe.config
+C:\Users\Tejaswi Kuppili\source\repos\ASSIGNMENTS\SubString\SubString\bin\Debug\SubString.exe
+C:\Users\Tejaswi Kuppili\source\repos\ASSIGNMENTS\SubString\SubString\bin\Debug\SubString.pdb
