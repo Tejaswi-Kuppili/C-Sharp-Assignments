@@ -1,7 +1,11 @@
-﻿using System;
-
+using System;
 class AdjacentDigitProduct
 {
+    /// <summary>
+    /// Finding the greatest from the products of every adjacent 4 digits of the input
+    /// </summary>
+    /// <param name="num"></param>
+    /// <returns></returns>
     public long GreatestProduct(string num)
     {
         int adjDigits = 4;
