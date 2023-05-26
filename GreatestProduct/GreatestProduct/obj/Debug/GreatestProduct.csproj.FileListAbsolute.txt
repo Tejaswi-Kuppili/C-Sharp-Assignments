@@ -1,8 +1,0 @@
-C:\Users\Tejaswi Kuppili\source\repos\GreatestProduct\GreatestProduct\bin\Debug\GreatestProduct.exe.config
-C:\Users\Tejaswi Kuppili\source\repos\GreatestProduct\GreatestProduct\bin\Debug\GreatestProduct.exe
-C:\Users\Tejaswi Kuppili\source\repos\GreatestProduct\GreatestProduct\bin\Debug\GreatestProduct.pdb
-C:\Users\Tejaswi Kuppili\source\repos\GreatestProduct\GreatestProduct\obj\Debug\GreatestProduct.csproj.AssemblyReference.cache
-C:\Users\Tejaswi Kuppili\source\repos\GreatestProduct\GreatestProduct\obj\Debug\GreatestProduct.csproj.SuggestedBindingRedirects.cache
-C:\Users\Tejaswi Kuppili\source\repos\GreatestProduct\GreatestProduct\obj\Debug\GreatestProduct.csproj.CoreCompileInputs.cache
-C:\Users\Tejaswi Kuppili\source\repos\GreatestProduct\GreatestProduct\obj\Debug\GreatestProduct.exe
-C:\Users\Tejaswi Kuppili\source\repos\GreatestProduct\GreatestProduct\obj\Debug\GreatestProduct.pdb
