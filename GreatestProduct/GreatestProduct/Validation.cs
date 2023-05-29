@@ -4,7 +4,7 @@ class Validation
 {
     public int ValidationEdgeCases(string num)
     {
-        if (num == null || num.Length < 4)
+        if (num == string.Empty || num.Length < 4)
         {
             return 1;
         }
