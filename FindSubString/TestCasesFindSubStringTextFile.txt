@@ -1,0 +1,58 @@
+Test Cases
+
+* If the string 1 and string 2 are empty, print "Both the strings are given empty !\nEnter valid Strings !"
+
+* If the string 1 is empty, print "String 1 is Empty !\nEnter valid String 1 !"
+
+* If the string 2 is empty, print "String 2 is Empty !\nEnter valid String 2 !"
+
+* If length of string 1 is less than length of string 2, print "Length of String 2 should be smaller than Length of String 1 !"
+
+* If string 2 is not found string 1, print "Sub String not found"
+
+* If string 2 is found in string 1, find the index positions and number of occurances of that sub string
+
+Test Case #1:
+Input :
+string 1:
+string 2:
+Output :
+Both the strings are given empty !\nEnter valid Strings !
+
+Test Case #2:
+Input :
+string 1: 
+string 2: thanks 
+Output :
+String 1 is Empty !\nEnter valid String 1 !
+
+Test Case #3:
+Input :
+string 1 : welcome
+string 2:
+Output :
+String 2 is Empty !\nEnter valid String 2 !
+
+Test Case #4:
+Input :
+string 1: welcome
+string 2: welcome2cognine
+Output :
+Length of String 2 should be smaller than Length of String 1 !
+
+Test Case #5:
+Input :
+string 1: welcome
+string 2: gfh
+Output :
+Sub String not found
+
+Test Case #6:
+Input :
+string 1: abdheabfkabdieab
+string 2: ab
+Output : 
+Index Positions:
+0 5 9 14
+Number of Occurances: 4
+

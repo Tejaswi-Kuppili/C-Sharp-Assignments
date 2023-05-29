@@ -1,0 +1,8 @@
+C:\Users\Tejaswi Kuppili\source\repos\ASSIGNMENTS\FindSubString\FindSubString\bin\Debug\FindSubString.exe.config
+C:\Users\Tejaswi Kuppili\source\repos\ASSIGNMENTS\FindSubString\FindSubString\bin\Debug\FindSubString.exe
+C:\Users\Tejaswi Kuppili\source\repos\ASSIGNMENTS\FindSubString\FindSubString\bin\Debug\FindSubString.pdb
+C:\Users\Tejaswi Kuppili\source\repos\ASSIGNMENTS\FindSubString\FindSubString\obj\Debug\FindSubString.csproj.AssemblyReference.cache
+C:\Users\Tejaswi Kuppili\source\repos\ASSIGNMENTS\FindSubString\FindSubString\obj\Debug\FindSubString.csproj.SuggestedBindingRedirects.cache
+C:\Users\Tejaswi Kuppili\source\repos\ASSIGNMENTS\FindSubString\FindSubString\obj\Debug\FindSubString.csproj.CoreCompileInputs.cache
+C:\Users\Tejaswi Kuppili\source\repos\ASSIGNMENTS\FindSubString\FindSubString\obj\Debug\FindSubString.exe
+C:\Users\Tejaswi Kuppili\source\repos\ASSIGNMENTS\FindSubString\FindSubString\obj\Debug\FindSubString.pdb
