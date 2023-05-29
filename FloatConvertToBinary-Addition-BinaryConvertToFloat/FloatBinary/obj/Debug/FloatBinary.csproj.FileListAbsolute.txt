@@ -1,0 +1,8 @@
+C:\Users\Tejaswi Kuppili\source\repos\ASSIGNMENTS\FloatConvertToBinary-Addition-BinaryConvertToFloat\FloatBinary\obj\Debug\FloatBinary.csproj.AssemblyReference.cache
+C:\Users\Tejaswi Kuppili\source\repos\ASSIGNMENTS\FloatConvertToBinary-Addition-BinaryConvertToFloat\FloatBinary\obj\Debug\FloatBinary.csproj.SuggestedBindingRedirects.cache
+C:\Users\Tejaswi Kuppili\source\repos\ASSIGNMENTS\FloatConvertToBinary-Addition-BinaryConvertToFloat\FloatBinary\obj\Debug\FloatBinary.csproj.CoreCompileInputs.cache
+C:\Users\Tejaswi Kuppili\source\repos\ASSIGNMENTS\FloatConvertToBinary-Addition-BinaryConvertToFloat\FloatBinary\bin\Debug\FloatBinary.exe.config
+C:\Users\Tejaswi Kuppili\source\repos\ASSIGNMENTS\FloatConvertToBinary-Addition-BinaryConvertToFloat\FloatBinary\bin\Debug\FloatBinary.exe
+C:\Users\Tejaswi Kuppili\source\repos\ASSIGNMENTS\FloatConvertToBinary-Addition-BinaryConvertToFloat\FloatBinary\bin\Debug\FloatBinary.pdb
+C:\Users\Tejaswi Kuppili\source\repos\ASSIGNMENTS\FloatConvertToBinary-Addition-BinaryConvertToFloat\FloatBinary\obj\Debug\FloatBinary.exe
+C:\Users\Tejaswi Kuppili\source\repos\ASSIGNMENTS\FloatConvertToBinary-Addition-BinaryConvertToFloat\FloatBinary\obj\Debug\FloatBinary.pdb
