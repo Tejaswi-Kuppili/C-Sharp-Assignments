@@ -1,0 +1,23 @@
+Test Cases
+
+Input
+
+The string should be in number format !
+
+* If the string is empty, print "Enter a string consisting of numbers with a length of atleast 4 digits"
+
+* If the string length is less than 4, print "Enter a string consisting of numbers with a length of atleast 4 digits"
+
+* If the string is a number and length is greater than 4, calculate the product of every adjacent 4 digits and print the greatest product
+
+Test Case #1:
+Input : 
+Output : Enter a string consisting of numbers with a length of atleast 4 digits
+
+Test Case #2:
+Input : 652 
+Output : Enter a string consisting of numbers with a length of atleast 4 digits
+
+Test Case #3:
+Input : 12345
+Output : Max Product: 120
