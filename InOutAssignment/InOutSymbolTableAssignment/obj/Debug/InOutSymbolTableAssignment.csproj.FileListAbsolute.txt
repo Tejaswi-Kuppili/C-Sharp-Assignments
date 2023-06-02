@@ -1,0 +1,8 @@
+C:\Users\Tejaswi Kuppili\source\repos\InOutAssignment\InOutSymbolTableAssignment\bin\Debug\InOutSymbolTableAssignment.exe.config
+C:\Users\Tejaswi Kuppili\source\repos\InOutAssignment\InOutSymbolTableAssignment\bin\Debug\InOutSymbolTableAssignment.exe
+C:\Users\Tejaswi Kuppili\source\repos\InOutAssignment\InOutSymbolTableAssignment\bin\Debug\InOutSymbolTableAssignment.pdb
+C:\Users\Tejaswi Kuppili\source\repos\InOutAssignment\InOutSymbolTableAssignment\obj\Debug\InOutSymbolTableAssignment.csproj.AssemblyReference.cache
+C:\Users\Tejaswi Kuppili\source\repos\InOutAssignment\InOutSymbolTableAssignment\obj\Debug\InOutSymbolTableAssignment.csproj.SuggestedBindingRedirects.cache
+C:\Users\Tejaswi Kuppili\source\repos\InOutAssignment\InOutSymbolTableAssignment\obj\Debug\InOutSymbolTableAssignment.csproj.CoreCompileInputs.cache
+C:\Users\Tejaswi Kuppili\source\repos\InOutAssignment\InOutSymbolTableAssignment\obj\Debug\InOutSymbolTableAssignment.exe
+C:\Users\Tejaswi Kuppili\source\repos\InOutAssignment\InOutSymbolTableAssignment\obj\Debug\InOutSymbolTableAssignment.pdb
